@@ -1,14 +1,17 @@
-# Turborepo starter
+# Creating a PayTM project from scratch using -
 
-This is an official starter Turborepo.
+TurboRepo , Prisma for ORM , postgres as DB starting in a docker container, Recoil for state management,
+NEXTAuth for authentication
 
-## Using this example
+## Reason for using TurboRepo-
 
-Run the following command:
+## Why we need PRISMA-
 
-```sh
-npx create-turbo@latest
-```
+## How we started POSTGRES in container using network and Volumes
+
+## Need for Rocoil as stateManagement
+
+
 
 ## What's inside?
 
