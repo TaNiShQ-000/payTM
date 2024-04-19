@@ -1,7 +1,7 @@
 # Creating a PayTM project from scratch using -
 
 TurboRepo 
-<p><a href="https://turbo.build/repo/docs" target="_blank" rel="noreferrer"> <img src="https://external-preview.redd.it/has-anyone-tried-to-deploy-turborepo-on-digital-oceans-app-v0-gSVPBTk5RN2g2rBqq_MoOt9n-6fm8-j5uw0KQNyDXEU.jpg?auto=webp&s=8eb1a0bdebec765c77b84f137e9e0b44f01c6bf5" alt="git" width="80" height="80"/> </a>
+<p><a href="https://turbo.build/repo/docs" target="_blank" rel="noreferrer"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/square_480/turbo-logo.png" alt="git" width="80" height="80"/> </a>
 <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/> </a> </p>
 Prisma for ORM
 postgres as DB starting in a docker container, Recoil for state management,
