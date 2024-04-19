@@ -2,7 +2,7 @@
 
 TurboRepo 
 <p><a href="https://turbo.build/repo/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="git" width="40" height="40"/> </a>
-<a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src=https://downloads.marketplace.jetbrains.com/files/20686/511528/icon/pluginIcon.png" alt="java" width="40" height="40"/> </a> </p>
+<a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://downloads.marketplace.jetbrains.com/files/20686/511528/icon/pluginIcon.png" alt="java" width="40" height="40"/> </a> </p>
 Prisma for ORM
 postgres as DB starting in a docker container, Recoil for state management,
 NEXTAuth for authentication
