@@ -1,5 +1,5 @@
 {
-  "name": "packages",
+  "name": "@repo/store",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "recoil": "^0.7.7"
+  },
+  "exports": {
+    "./useBalance": "./src/hooks/useBalance"
+  }
 }
