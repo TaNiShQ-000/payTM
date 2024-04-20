@@ -1,14 +1,21 @@
-# Turborepo starter
+# Creating a PayTM project from scratch using -
 
-This is an official starter Turborepo.
 
-## Using this example
+<p><a href="https://turbo.build/repo/docs" target="_blank" rel="noreferrer"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/square_480/turbo-logo.png" alt="git" width="80" height="80"/> </a>TurboRepo</p> 
+<p><a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/> </a>  Prisma for ORM </p>
 
-Run the following command:
+postgres as DB starting in a docker container, Recoil for state management,
+NEXTAuth for authentication
 
-```sh
-npx create-turbo@latest
-```
+## Reason for using TurboRepo-
+
+## Why we need PRISMA-
+
+## How we started POSTGRES in container using network and Volumes
+
+## Need for Rocoil as stateManagement
+
+
 
 ## What's inside?
 
