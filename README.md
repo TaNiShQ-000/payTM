@@ -10,9 +10,6 @@
     <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/social-media-card.png" alt="java" width="80" height="80"/> </a>
 </p>
 
-
-<p><a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/> </a>  Prisma for ORM </p>
-
 <p> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/square_480/turbo-logo.png" alt="git" width="80" height="80"/> 
 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/>  </p>
