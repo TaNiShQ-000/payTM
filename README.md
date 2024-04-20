@@ -4,8 +4,14 @@
 <p>
     <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/square_480/turbo-logo.png" alt="git" width="80" height="80"/>
     <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png" alt="java" width="80" height="80"/></a> postgres as DB
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png" alt="java" width="80" height="80"/></a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" alt="java" width="80" height="80"/> </a>
+    <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyFAmQ6DqLk-j-XT_vBCzi7C-J5T3ipkeFC4G8S9qvQ&s" alt="java" width="80" height="80"/> </a>
+    <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/social-media-card.png" alt="java" width="80" height="80"/> </a>
 </p>
+
+
+<p><a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="java" width="80" height="80"/> </a>  Prisma for ORM </p>
 
 <p> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/square_480/turbo-logo.png" alt="git" width="80" height="80"/> 
 
